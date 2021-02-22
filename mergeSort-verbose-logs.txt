@@ -1,0 +1,103 @@
+
+
+Returning 21 on mergeSort run #1.
+Returning 1 on mergeSort run #2.
+~~~Finishing run #1 of merge, returning:
+[ 1, 21 ]
+Finishing run #3 of mergeSort, returning:
+[ 1, 21 ]
+Returning 26 on mergeSort run #4.
+Returning 45 on mergeSort run #5.
+~~~Finishing run #2 of merge, returning:
+[ 26, 45 ]
+Finishing run #6 of mergeSort, returning:
+[ 26, 45 ]
+~~~Finishing run #3 of merge, returning:
+[ 1, 21, 26, 45 ]
+Finishing run #7 of mergeSort, returning:
+[ 1, 21, 26, 45 ]
+Returning 29 on mergeSort run #8.
+Returning 28 on mergeSort run #9.
+~~~Finishing run #4 of merge, returning:
+[ 28, 29 ]
+Finishing run #10 of mergeSort, returning:
+[ 28, 29 ]
+Returning 2 on mergeSort run #11.
+Returning 9 on mergeSort run #12.
+~~~Finishing run #5 of merge, returning:
+[ 2, 9 ]
+Finishing run #13 of mergeSort, returning:
+[ 2, 9 ]
+~~~Finishing run #6 of merge, returning:
+[ 2, 9, 28, 29 ]
+Finishing run #14 of mergeSort, returning:
+[ 2, 9, 28, 29 ]
+~~~Finishing run #7 of merge, returning:
+[
+   1,  2,  9, 21,
+  26, 28, 29, 45
+]
+Finishing run #15 of mergeSort, returning:
+[
+   1,  2,  9, 21,
+  26, 28, 29, 45
+]
+Returning 16 on mergeSort run #16.
+Returning 49 on mergeSort run #17.
+~~~Finishing run #8 of merge, returning:
+[ 16, 49 ]
+Finishing run #18 of mergeSort, returning:
+[ 16, 49 ]
+Returning 39 on mergeSort run #19.
+Returning 27 on mergeSort run #20.
+~~~Finishing run #9 of merge, returning:
+[ 27, 39 ]
+Finishing run #21 of mergeSort, returning:
+[ 27, 39 ]
+~~~Finishing run #10 of merge, returning:
+[ 16, 27, 39, 49 ]
+Finishing run #22 of mergeSort, returning:
+[ 16, 27, 39, 49 ]
+Returning 43 on mergeSort run #23.
+Returning 34 on mergeSort run #24.
+~~~Finishing run #11 of merge, returning:
+[ 34, 43 ]
+Finishing run #25 of mergeSort, returning:
+[ 34, 43 ]
+Returning 46 on mergeSort run #26.
+Returning 40 on mergeSort run #27.
+~~~Finishing run #12 of merge, returning:
+[ 40, 46 ]
+Finishing run #28 of mergeSort, returning:
+[ 40, 46 ]
+~~~Finishing run #13 of merge, returning:
+[ 34, 40, 43, 46 ]
+Finishing run #29 of mergeSort, returning:
+[ 34, 40, 43, 46 ]
+~~~Finishing run #14 of merge, returning:
+[
+  16, 27, 34, 39,
+  40, 43, 46, 49
+]
+Finishing run #30 of mergeSort, returning:
+[
+  16, 27, 34, 39,
+  40, 43, 46, 49
+]
+~~~Finishing run #15 of merge, returning:
+[
+   1,  2,  9, 16, 21, 26,
+  27, 28, 29, 34, 39, 40,
+  43, 45, 46, 49
+]
+Finishing run #31 of mergeSort, returning:
+[
+   1,  2,  9, 16, 21, 26,
+  27, 28, 29, 34, 39, 40,
+  43, 45, 46, 49
+]
+[
+   1,  2,  9, 16, 21, 26,
+  27, 28, 29, 34, 39, 40,
+  43, 45, 46, 49
+]
